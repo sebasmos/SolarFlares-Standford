@@ -2,9 +2,9 @@
 Señal del sol - base de datos de StandFord
 ![](RawSignal.PNG)
 # Analisis Gaussiano con caracteristicas de senal solar
-![](imagen del sol.PNG)
+![](noiseandsignal.PNG)
 # Analisis de histograma de caracteristicas ppales del sol
-![](Histograma solar.png)
+![](hist.PNG)
 ## Atributos principales
 * Site = AGO
 * Contact = rok.vogrincic@fmf.uni-lj.si
