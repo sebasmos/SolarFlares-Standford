@@ -1,6 +1,10 @@
-# Caracterizar llamaradas solares tipo A,B y X
+# Caracterizar llamaradas solares tipo A,B,C y X
 Señal del sol - base de datos de StandFord
 ![](RawSignal.PNG)
+# Analisis Gaussiano con caracteristicas de senal solar
+![](imagen del sol.PNG)
+# Analisis de histograma de caracteristicas ppales del sol
+![](Histograma solar.png)
 ## Atributos principales
 * Site = AGO
 * Contact = rok.vogrincic@fmf.uni-lj.si
