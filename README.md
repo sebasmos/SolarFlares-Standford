@@ -1,11 +1,9 @@
-# Caracterizar llamaradas solares tipo A,B,C y X
-Señal del sol - base de datos de StandFord
-![](images/RawSignal.PNG)
-# Analisis Gaussiano con caracteristicas de senal solar
+#  Solar Flare Predictors 
+## Gaussian noise for modeling solar activity
 ![](images/noiseandsignal.PNG)
-# Analisis de histograma de caracteristicas ppales del sol
+## Features
 ![](images/hist.PNG)
-## Atributos principales
+## Datasets details
 * Site = AGO
 * Contact = rok.vogrincic@fmf.uni-lj.si
 * Country = SLOVENIA
