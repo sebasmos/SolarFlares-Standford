@@ -26,5 +26,14 @@ Señal del sol - base de datos de StandFord
 * dataquality_average_v0.1=0.557058 
 * dataquality_max_v0.1=25.435353
 
+# Deploy on Docker
+
+`docker build -t image .`
+
+`docker run -it -v ~/SolarFlares-Standford/model:/sebasmos/model -v ~/SolarFlares-Standford/data:/sebasmos/data: sebasmos bash`
+
+`python test.py data/ model/`
+
+
 # Solar flare forecasting papers
 * [Operational solar flare prediction model using Deep Flare Net](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-021-01381-9): DeFN provides probabilistic forecast for M-class and C-class events during 24h subsequent hours from current day. Dataset is extracted from Solar Dynamic Observatory (SDO) 
