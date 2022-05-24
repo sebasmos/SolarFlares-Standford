@@ -19,7 +19,7 @@ scipy==1.4.1
 seaborn==0.10.0
 tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
-tensorflow==2.4.0
+tensorflow==2.6.4
 tensorflow-estimator==2.4.0
 wfdb==2.2.1
 wget==3.2
